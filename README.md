@@ -1,8 +1,8 @@
-#### Remember this plugin uses features that aren't official. Don't ask about it in other servers etc.
-# edoStereo Plugin 0.0.6
+#### this plugin uses features that aren't official
+# FundStereo Plugin 0.0.1
 ###### [REC] Requires a capable stereo microphone
 
-## Stereo sound for Discord. BetterDiscord 1.11.0
+## Stereo sound for Discord. BetterDiscord 1.12.1
 
 ## [HOW TO INSTALL]?
 
